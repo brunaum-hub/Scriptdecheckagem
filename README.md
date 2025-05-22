@@ -1,0 +1,2 @@
+# Scriptdecheckagem
+trabalho no shell
